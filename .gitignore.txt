@@ -1,1 +1,5 @@
 # backend_test_homework
+
+# игнорировать файл READMI.md
+READMI.md
+
